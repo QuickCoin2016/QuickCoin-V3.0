@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=QuickCoin
+Comment=QuickCoin P2P Cryptocurrency
+Comment[fr]=QuickCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=QuickCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/QuickCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/QuickCoin;
+Categories=Office;
